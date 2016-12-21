@@ -1,0 +1,15 @@
+# idea ignore
+.idea/
+*.ipr
+*.iml
+*.iws
+
+# temp ignore
+pkg/
+target/
+.vscode/
+
+# system ignore
+.DS_Store
+Thumbs.db
+
